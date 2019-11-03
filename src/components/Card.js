@@ -1,5 +1,4 @@
 import React from 'react';
-import './Card.css';
 
 const Card = ({id, name, email}) => {
     // const {id, name, email} = props;
